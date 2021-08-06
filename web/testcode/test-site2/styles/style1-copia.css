@@ -1,0 +1,48 @@
+html{
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgb(18, 0, 180);
+  }
+body {
+    font-family: 'Bebas Neue', cursive;
+    width: 1150px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    padding: 0 20px 0 20px;
+    border: 10px solid black;
+  } 
+h1 {
+    font-size: 40px;
+    text-align:center;
+    margin: 0 auto;
+    padding: 20px 20px 0px 20px;    
+    color: #00539F;
+    text-shadow: 1px 1px 1px black;
+  } 
+p {
+    font-size: 20px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  } 
+#tabla1{
+    margin: 40px 0;
+    float: right;
+    background-color:rgb(184, 189, 255);
+    font-size: 20px;
+}
+#tabla2{
+    margin:20px 0 10px 0;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    border: 10px solid black;
+  }
+#h5{
+    font-size: 15px;
+} 
+#Boton{
+    position: relative;
+    top: -5px; left: 545px;
+    height:30px;
+    width:240px;
+}
